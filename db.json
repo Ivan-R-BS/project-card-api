@@ -33,7 +33,7 @@
       {
         "id": 4,
         "title": "Machine Learning Project", 
-        "image": "images/ml-project.jpg", 
+        "image": "images/ss.png", 
         "alt": "Machine learning model visualization", 
         "description": "Developed a machine learning model using Python for classifying data. Implemented various ML algorithms and compared their performance for optimal results.", 
         "link": "#", 
